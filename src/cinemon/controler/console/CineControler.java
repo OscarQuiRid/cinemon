@@ -438,7 +438,7 @@ public class CineControler {
     }
 }
 
-class CineControlerException extends RuntimeException {
+class CineControlerException extends Exception {
     public CineControlerException(String message) {
         super(message);
     }

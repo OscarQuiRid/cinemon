@@ -1,6 +1,5 @@
 package cinemon.model;
 
-import java.time.LocalDate;
 
 public class Serie extends Proyecion{
     private int temporadas,episodios;

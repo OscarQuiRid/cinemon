@@ -1,8 +1,5 @@
 package cinemon.model;
 
-import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
-
 public class Proyecion {
     private int id;
     private int duracion;
